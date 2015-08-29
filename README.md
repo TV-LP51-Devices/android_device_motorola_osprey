@@ -7,7 +7,11 @@ It was announced on July 2015.
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.4 GHz Cortex-A53
+<<<<<<< HEAD
 Chipset | Qualcomm MSM8226 Snapdragon 410
+=======
+Chipset | Qualcomm MSM8916 Snapdragon 410
+>>>>>>> 4c111a0... osprey: Bureaucracy, clean up and updates
 GPU     | Adreno 306
 Memory  | 1/2 GB RAM
 Shipped Android Version | 5.1.1
