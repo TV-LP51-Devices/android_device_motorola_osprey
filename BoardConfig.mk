@@ -51,8 +51,6 @@ TARGET_KERNEL_CONFIG := msm8916-squid_defconfig
 KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-eabi-4.9/bin
 KERNEL_TOOLCHAIN_PREFIX := arm-eabi-
 
-BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01000000 --tags_offset 0x00000100
-
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := osprey
 
